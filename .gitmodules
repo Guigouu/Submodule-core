@@ -1,0 +1,3 @@
+[submodule "services/submodule1"]
+	path = services/submodule1
+	url = https://github.com/Guigouu/submodules
